@@ -1,5 +1,4 @@
-# Suliman's Notes
-#### November 2021 Cohort
+# Suliman's Notes 
 ## Summary
 
 This repository contains all of the notes taken by [Suliman](https://github.com/hydrajin) for the [Lighthouse Labs](https://lighthouselabs.ca) Web Development Bootcamp. 
@@ -7,3 +6,5 @@ This repository contains all of the notes taken by [Suliman](https://github.com/
 
 
 ## Table of Contents
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)  
